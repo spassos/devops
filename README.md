@@ -8,8 +8,8 @@ Instalar o [Docker](https://www.docker.com/) e rodar o comando `docker run`
 
 Criar os banco de dados para a demo:
 
-"""sql
+```sql
 CREATE DATABASE demodevops;
 GO
 CREATE DATABASE demodevops_2;
-"""
+```
